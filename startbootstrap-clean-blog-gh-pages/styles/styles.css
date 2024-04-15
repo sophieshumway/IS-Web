@@ -1,0 +1,51 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(71, 149, 222);
+}
+
+body{
+    background-color: rgb(223, 231, 234);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:left ;
+    border: 5px solid black;
+    margin: 40px;
+    padding: 100px;
+    box-shadow: -10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position:inside;
+}
+
+.skill-section {
+    background-color: rgb(223, 231, 234);
+    border: 5px solid black;
+    margin: 10px;
+    padding: 20px;
+
+}
+.education-section{
+    background-color: rgb(223, 231, 234);
+    border: 5px solid black;
+    margin: 10px;
+    padding: 20px;
+}
+
+.job-section{
+    background-color: rgb(223, 231, 234);
+    border: 5px solid black;
+    margin: 10px;
+    padding: 20px;
+}
